@@ -59,7 +59,7 @@ This is my first step in Data Analysis, and I am actively improving my skills to
 
 ## 📎 Full Project File
 The complete Excel file can be accessed here:
-👉 [Google Drive Link]
+👉 [https://docs.google.com/spreadsheets/d/1fPXmKPbTc_n56_lWftS0p99IyQ928JrZ/edit?usp=sharing&ouid=108254736586662585586&rtpof=true&sd=true]
 
 ---
 
